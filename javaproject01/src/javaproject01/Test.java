@@ -11,6 +11,11 @@ public class Test {
 	{
 		System.out.println("m3");
 	}
+	
+	public void m4()
+	{
+		System.out.println("m4");
+	}
 	public static void main(String[] args) 
 	{
 		Test t = new Test();
